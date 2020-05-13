@@ -1,4 +1,4 @@
-"""
+﻿"""
     convert(ListRecord, qrec::QueueRecord{E})
 
 Converts a QueueRecord into the corresponding ListRecord.

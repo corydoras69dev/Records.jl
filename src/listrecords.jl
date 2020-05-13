@@ -1,4 +1,4 @@
-struct RecordFrame
+﻿struct RecordFrame
     lo::Int
     hi::Int
 end

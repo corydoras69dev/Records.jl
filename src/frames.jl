@@ -1,4 +1,4 @@
-mutable struct Frame{E}
+﻿mutable struct Frame{E}
     entities::Vector{E} # NOTE: I tried StaticArrays; was not faster
     n::Int
 end

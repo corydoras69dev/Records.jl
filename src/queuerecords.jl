@@ -1,4 +1,4 @@
-mutable struct QueueRecord{E}
+﻿mutable struct QueueRecord{E}
     frames::Vector{Frame{E}}
     timestep::Float64
     nframes::Int # number of active Frames
